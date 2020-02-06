@@ -53,8 +53,7 @@ namespace Part_1
             Console.WriteLine(songLyrics.StartsWith("goodbye"));
             Console.WriteLine(songLyrics.EndsWith("hello"));
             Console.WriteLine(songLyrics.EndsWith("goodbye"));
-            Console.Write(" CCC ");
-            Console.WriteLine("   A  ");
+        
 
             //Console.Write() does not
 
